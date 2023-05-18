@@ -1,2 +1,10 @@
 1684388619635	Rename type 'Dbconnection'
 1684389887077	Rename resource 'knowlege'
+1684391034183	Rename type 'ItemGroupDao'
+1684391744972	Rename type 'ItemGroup'
+1684393920633	Rename type 'SqlUtil'
+1684394245352	Rename type 'ItemGroupdao'
+1684394319096	Rename type 'ItemGroupDao'
+1684394829654	Delete element
+1684395351338	Rename type 'ItemGroupPage'
+1684395370399	Delete element

@@ -9,6 +9,7 @@ import java.util.Properties;
 public class DbProvider {
 	// find path
 	private static String path = "db-config.properties";
+
 	public static Properties getDbProps() {
 		Properties props = new Properties();
 		try {
@@ -20,5 +21,4 @@ public class DbProvider {
 		}
 		return props;
 	}
-	
 }
