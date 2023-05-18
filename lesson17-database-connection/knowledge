@@ -1,0 +1,7 @@
+JDBC JPA/Hibernate
+
+==> Truy vấn --> DML
+
++ executeUpdate -> INSERT, UPDATE, DELETE
++ executeQuery -> SELECT
++ batch update;

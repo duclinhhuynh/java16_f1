@@ -1,0 +1,14 @@
+package configuration;
+
+import java.util.Properties;
+
+public class DbProvider {
+	// find path
+	private static String path = "db-config.properties";
+	public static Properties getDbProps() {
+		Properties props = new Properties();
+		
+		return props;
+	}
+	
+}
